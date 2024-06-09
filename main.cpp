@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	cout << "Library System.";
+	cout << "Perubahan Kedua.";
 	
 	return 0;
 }

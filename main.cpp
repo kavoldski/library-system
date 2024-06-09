@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	cout << "Tahniah Frank, Mac and Jesse. Anda berjaya install GitHub.";
+	cout << "Library System.";
 	
 	return 0;
 }
